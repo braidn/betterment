@@ -36,20 +36,21 @@ Basically if Ruby had a love child with C++
 
 #### React/Redux
 
-[ ] [React Patterns](http://krasimirtsonev.com/blog/article/react-js-in-design-patterns)
-[ ] [SurviveJS React Training ](https://survivejs.github.io/training/#/?_k=zvy0ok)
-[ ] [Read through React Enlightenment](https://www.reactenlightenment.com)
-[ ] [Read through this book on React and Redux](http://satyam.github.io/book-react-redux/#preface-the-application)
-[ ] [Read about: React Components, Elements, and Instances](https://medium.com/@dan_abramov/react-components-elements-and-instances-90800811f8ca#.xk98q4c1r)
-[ ] [Read: React Elements vs React Components vs Component Backing Instances](https://medium.com/@fay_jai/react-elements-vs-react-components-vs-component-backing-instances-14d42729f62#.482g9ynuu)
-[ ] [Build this Netflix Like App](https://www.fullstackreact.com/react-daily-ui/003-landing-page/l)
-[ ] watch the following videos: https://egghead.io/courses/getting-started-with-redux
-[ ] Work through the following Angular2/Ngrx tut: http://onehungrymind.com/build-better-angular-2-application-redux-ngrx/
-[ ] [Work through doing TDD right article in Node](https://blog.risingstack.com/getting-node-js-testing-and-tdd-right-node-js-at-scale)
+- [ ] [React Patterns](http://krasimirtsonev.com/blog/article/react-js-in-design-patterns)
+- [ ] [SurviveJS React Training ](https://survivejs.github.io/training/#/?_k=zvy0ok)
+- [ ] [Read through React Enlightenment](https://www.reactenlightenment.com)
+- [ ] [Read through this book on React and Redux](http://satyam.github.io/book-react-redux/#preface-the-application)
+- [ ] [Read about: React Components, Elements, and Instances](https://medium.com/@dan_abramov/react-components-elements-and-instances-90800811f8ca#.xk98q4c1r)
+- [ ] [Read: React Elements vs React Components vs Component Backing Instances](https://medium.com/@fay_jai/react-elements-vs-react-components-vs-component-backing-instances-14d42729f62#.482g9ynuu)
+- [ ] [Build this Netflix Like App](https://www.fullstackreact.com/react-daily-ui/003-landing-page/l)
+- [ ] watch the following videos: https://egghead.io/courses/getting-started-with-redux
+- [ ] Work through the following Angular2/Ngrx tut: http://onehungrymind.com/build-better-angular-2-application-redux-ngrx/
+- [ ] [Work through doing TDD right article in Node](https://blog.risingstack.com/getting-node-js-testing-and-tdd-right-node-js-at-scale)
 
 #### Loopback
 
-[ ] Get Loopback's auth system online and functioning with login/logout/signup.
+- [ ] Get Loopback's auth system online and functioning with login/logout/signup.
+- [ ] [Developing a REST API in Loopback tut](https://blog.optis.be/developing-a-complete-rest-api-with-loopback-a3190edc105a#.w1cprekwn)
 
 #### Angular
 
