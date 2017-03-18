@@ -7,32 +7,34 @@ Basically if Ruby had a love child with C++
 
 #### Exercism
 
-[ ] Finish the very first example file
+- [ ] Finish the very first example file
 
 #### TUTS
 
-[x] [Websockets with Elm/Crystal](https://medium.com/@zenitram.oiram/a-beginners-guide-to-websockets-in-elm-and-crystal-8f510c28eb61#.3f25x82ce) 12/29/2016 4:30:47 PM Braden Douglass
-[x] Work through this testing example: http://ruby-journal.com/crystal/testing-whirlwind-tour-in-crystal-lang/ 11/15/2016 8:39:22 PM Braden Douglass
+- [x] [Websockets with Elm/Crystal](https://medium.com/@zenitram.oiram/a-beginners-guide-to-websockets-in-elm-and-crystal-8f510c28eb61#.3f25x82ce) 12/29/2016 4:30:47 PM Braden Douglass
+- [x] Work through this testing example: http://ruby-journal.com/crystal/testing-whirlwind-tour-in-crystal-lang/ 11/15/2016 8:39:22 PM Braden Douglass
 
 #### Code Reading
 
-[x] Read through the Spec/Test suite to see if it is as simple as TestUnit or as complex and hairy as RSpec. 12/11/2016 11:02:55 PM Braden Douglass
+- [x] Read through the Spec/Test suite to see if it is as simple as TestUnit or as complex and hairy as RSpec. 12/11/2016 11:02:55 PM Braden Douglass
 
 #### Attachments
 
 **https://crystal-lang.org** (0.00 kb) [download](https://crystal-lang.org)
 
+***
 ### GoLang
 
 #### Advance to B
 
-[x] Finish Go Bootcamp 10/11/2015 1:16:44 PM Braden Douglass
+- [x] Finish Go Bootcamp 10/11/2015 1:16:44 PM Braden Douglass
 
+***
 ### Full Stack JS
 
 #### Advance
 
-[ ] Complete Tuts
+- [ ] Complete Tuts
 
 #### React/Redux
 
@@ -54,7 +56,7 @@ Basically if Ruby had a love child with C++
 
 #### Angular
 
-[ ] [Angular 2 Webpack/RXJS Hacker news clone.](http://houssein.me/angular2-hacker-news?utm_source=javascriptweekly&utm_medium=email)
+- [ ] [Angular 2 Webpack/RXJS Hacker news clone.](http://houssein.me/angular2-hacker-news?utm_source=javascriptweekly&utm_medium=email)
 
 #### Comments
 Thinking towards Angular2/Vue due to their paradigms being so damn close. And due to it's gigantic amount of use in 2016, [Feathers](http://feathersjs.com)  
