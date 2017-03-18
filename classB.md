@@ -9,6 +9,7 @@ Functional or FRP Javascript
 
 - [x] Move forward when finished going over notes from Functional JS 10/11/2015 1:22:54 PM Braden Douglass
 
+***
 ### Elm Lang
 
 #### Code Reads
@@ -41,6 +42,7 @@ Functional or FRP Javascript
 
 lots of good stuff here: https://github.com/isRuslan/awesome-elm
 
+***
 ### Vuejs
 
 #### Tutorials
