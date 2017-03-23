@@ -9,8 +9,8 @@
 - [ ] Finish The Ruby Way
 - [ ] Finish Ruby Refactoring
 - [ ] Find an open source project to work on. Maybe the successor to Lotus
-
 - [ ] [Build an API with Hanami due to it's overall speed above Rails 5/Rails API](https://dl.dropboxusercontent.com/u/468982/blog/ruby_frameworks/bench.png)
+- [ ] [Walk through this post on creating form objects with dry-validations](http://cucumbersome.net/2016/09/06/rails-form-objects-with-dry-rb.html)
 
 ***
 #### Rails
