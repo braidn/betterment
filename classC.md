@@ -5,24 +5,25 @@
 **Description:**
 Basically if Ruby had a love child with C++
 
-#### Exercism
+#### Katas
 
-- [ ] Finish the very first example file
+- [x] Finish the very first example file for exercism
 
 #### TUTS
 
-- [x] [Websockets with Elm/Crystal](https://medium.com/@zenitram.oiram/a-beginners-guide-to-websockets-in-elm-and-crystal-8f510c28eb61#.3f25x82ce) 12/29/2016 4:30:47 PM Braden Douglass
-- [x] Work through this testing example: http://ruby-journal.com/crystal/testing-whirlwind-tour-in-crystal-lang/ 11/15/2016 8:39:22 PM Braden Douglass
+- [x] [Websockets with Elm/Crystal](https://medium.com/@zenitram.oiram/a-beginners-guide-to-websockets-in-elm-and-crystal-8f510c28eb61#.3f25x82ce)
+- [x] Work through this testing example: http://ruby-journal.com/crystal/testing-whirlwind-tour-in-crystal-lang/
 
 #### Code Reading
 
-- [x] Read through the Spec/Test suite to see if it is as simple as TestUnit or as complex and hairy as RSpec. 12/11/2016 11:02:55 PM Braden Douglass
+- [x] Read through the Spec/Test suite to see if it is as simple as TestUnit or as complex and hairy as RSpec.
 
-#### Attachments
+#### Building
 
-**https://crystal-lang.org** (0.00 kb) [download](https://crystal-lang.org)
+- [ ] Build a blog like in Hartl's Rails tutorial using the [Amber project](http://www.ambercr.io)
 
 ***
+
 ### GoLang
 
 #### Advance to B
@@ -30,6 +31,7 @@ Basically if Ruby had a love child with C++
 - [x] Finish Go Bootcamp 10/11/2015 1:16:44 PM Braden Douglass
 
 ***
+
 ### Full Stack JS
 
 #### Advance
