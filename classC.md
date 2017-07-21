@@ -50,6 +50,7 @@ Basically if Ruby had a love child with C++
 - [ ] watch the following videos: https://egghead.io/courses/getting-started-with-redux
 - [ ] Work through the following Angular2/Ngrx tut: http://onehungrymind.com/build-better-angular-2-application-redux-ngrx/
 - [ ] [Work through doing TDD right article in Node](https://blog.risingstack.com/getting-node-js-testing-and-tdd-right-node-js-at-scale)
+- [ ] [Type safety is important! Read through this great TypeScript book](https://www.gitbook.com/book/basarat/typescript)
 
 #### Loopback
 
