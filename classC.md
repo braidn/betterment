@@ -8,6 +8,7 @@ Basically if Ruby had a love child with C++
 #### Katas
 
 - [x] Finish the very first example file for exercism
+- [ ] Complete 10 Katas at [Codewars](https://www.codewars.com/users/braidn/completed)
 
 #### TUTS
 
@@ -50,7 +51,7 @@ Basically if Ruby had a love child with C++
 - [ ] watch the following videos: https://egghead.io/courses/getting-started-with-redux
 - [ ] Work through the following Angular2/Ngrx tut: http://onehungrymind.com/build-better-angular-2-application-redux-ngrx/
 - [ ] [Work through doing TDD right article in Node](https://blog.risingstack.com/getting-node-js-testing-and-tdd-right-node-js-at-scale)
-- [ ] [Type safety is important! Read through this great TypeScript book](https://www.gitbook.com/book/basarat/typescript)
+- [x] [Type safety is important! Read through this great TypeScript book](https://www.gitbook.com/book/basarat/typescript)
 
 #### Loopback
 
@@ -62,5 +63,6 @@ Basically if Ruby had a love child with C++
 - [ ] [Angular 2 Webpack/RXJS Hacker news clone.](http://houssein.me/angular2-hacker-news?utm_source=javascriptweekly&utm_medium=email)
 
 #### Comments
+
 Thinking towards Angular2/Vue due to their paradigms being so damn close. And due to it's gigantic amount of use in 2016, [Feathers](http://feathersjs.com)  
 This needs to be Loopback/Redux + React OR Angular2

@@ -33,7 +33,6 @@ Functional or FRP Javascript
 - [x] [Finish Part 3 of Elm Articles with Elixir](https://medium.com/@diamondgfx/writing-a-full-site-in-phoenix-and-elm-8f50ba4382a3#.nso3frxs1) 9/26/2016 11:56:38 PM Braden Douglass
 - [ ] [99 Bottles](https://en.m.wikibooks.org/wiki/99_Elm_Problems)
 - [x] [Websockets with Elm/Crystal](https://medium.com/@zenitram.oiram/a-beginners-guide-to-websockets-in-elm-and-crystal-8f510c28eb61#.3f25x82ce) 12/29/2016 4:31:00 PM Braden Douglass
-- [ ] [Test First Elm Article](https://medium.com/@danigb/test-first-elm-5d5cceea0efc)
 
 #### Videos
 
@@ -42,22 +41,3 @@ Functional or FRP Javascript
 #### Comments
 
 lots of good stuff here: https://github.com/isRuslan/awesome-elm
-
-***
-### Vuejs
-
-#### Tutorials
-
-- [x] [VueJS/Rails5 tutorial](https://ksylvest.com/posts/2016-09-07/augmenting-a-ruby-on-rails-app-with-vue-js) More used to level up Rails. 9/18/2016 2:46:03 PM Braden Douglass
-- [ ] [Vue and Vuex Simple Todo App](https://medium.com/@paadams/build-a-simple-todo-app-with-vue-js-1778ae175514#.t91jpkxok)
-- [x] [Slack clone with Vue](https://medium.com/building-a-slack-clone-with-vue-js-and-kuzzle-io/building-a-slack-clone-with-vue-js-and-kuzzle-io-part-1-d0c56ef9e6cb#.e2wzdjhbf) 11/14/2016 9:31:23 PM Braden Douglass
-- [ ] [Building a Vue2 App With Router](https://www.liquidlight.co.uk/blog/article/building-a-vue-v2-js-app-using-vue-router)
-
-#### High Level
-
-- [x] Integrate it into an application 12/11/2016 11:04:42 PM Braden Douglass
-- [ ] Figure out how to test a component
-- [x] Perform a talk about it at a local meetup 12/11/2016 11:04:43 PM Braden Douglass
-
-#### Comments
-Paused until 2.0 is released

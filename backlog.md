@@ -64,3 +64,22 @@ Elixir is a very similar language to Ruby although it has a very awesome concurr
 
 #### Comments
 This seems to be coming up a whole lot in the realm of jobs and such. Although there is very little of this in actual web programming, it's good to know.
+
+***
+### Vuejs
+
+#### Tutorials
+
+- [x] [VueJS/Rails5 tutorial](https://ksylvest.com/posts/2016-09-07/augmenting-a-ruby-on-rails-app-with-vue-js) More used to level up Rails. 9/18/2016 2:46:03 PM Braden Douglass
+- [ ] [Vue and Vuex Simple Todo App](https://medium.com/@paadams/build-a-simple-todo-app-with-vue-js-1778ae175514#.t91jpkxok)
+- [x] [Slack clone with Vue](https://medium.com/building-a-slack-clone-with-vue-js-and-kuzzle-io/building-a-slack-clone-with-vue-js-and-kuzzle-io-part-1-d0c56ef9e6cb#.e2wzdjhbf) 11/14/2016 9:31:23 PM Braden Douglass
+- [ ] [Building a Vue2 App With Router](https://www.liquidlight.co.uk/blog/article/building-a-vue-v2-js-app-using-vue-router)
+
+#### High Level
+
+- [x] Integrate it into an application 12/11/2016 11:04:42 PM Braden Douglass
+- [ ] Figure out how to test a component
+- [x] Perform a talk about it at a local meetup 12/11/2016 11:04:43 PM Braden Douglass
+
+#### Comments
+Paused until 2.0 is released
