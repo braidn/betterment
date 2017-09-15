@@ -21,7 +21,7 @@ Basically if Ruby had a love child with C++
 
 #### Building
 
-- [ ] Build a blog like in Hartl's Rails tutorial using the [Amber project](http://www.ambercr.io)
+- [ ] Build a blog like in Hartl's Rails tutorial using the [Amber project](http://www.amberframework.org)
 
 ***
 
