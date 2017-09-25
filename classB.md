@@ -31,8 +31,8 @@ Functional or FRP Javascript
 - [x] https://medium.com/@diamondgfx/writing-a-full-site-in-phoenix-and-elm-a100804c9499#.t5mg48skx 7/21/2016 12:05:03 AM Braden Douglass
 - [x] https://medium.com/@diamondgfx/writing-a-full-site-in-phoenix-and-elm-a4622c5130f5#.37ynw5ch0 8/30/2016 11:04:29 PM Braden Douglass
 - [x] [Finish Part 3 of Elm Articles with Elixir](https://medium.com/@diamondgfx/writing-a-full-site-in-phoenix-and-elm-8f50ba4382a3#.nso3frxs1) 9/26/2016 11:56:38 PM Braden Douglass
-- [ ] [99 Bottles](https://en.m.wikibooks.org/wiki/99_Elm_Problems)
 - [x] [Websockets with Elm/Crystal](https://medium.com/@zenitram.oiram/a-beginners-guide-to-websockets-in-elm-and-crystal-8f510c28eb61#.3f25x82ce) 12/29/2016 4:31:00 PM Braden Douglass
+- [ ] [Work through these Elm Koans](https://github.com/robertjlooby/elm-koans)
 
 #### Videos
 
